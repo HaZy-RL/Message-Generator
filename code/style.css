@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.buton {
+    color: blue;
+    background-color: aquamarine;
+    border-radius: 5px;
+    height: 50px;
+    width: 150px;
+    font-size: medium;
+ }
+
+ .buton:hover {
+    background-color: navy;
+    color: gold;
+    cursor: pointer;
+    border-radius: 35px;
+ }
+
+ #close {
+    display: inline;
+    padding: 10px;
+    padding-top: 5px;
+ }
